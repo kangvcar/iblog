@@ -1,4 +1,5 @@
-baseURL = "https://kangvcar.github.io"
+#baseURL = "https://kangvcar.github.io"
+baseURL = "https://kangvcar.vercel.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Kang·Vcar"
