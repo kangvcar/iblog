@@ -1,6 +1,6 @@
 ---
-title: "[face_recognition中文文档] 第4节 Face Recognition API"
-date: 2020-10-11T09:50:40+08:00
+title: "[Face_recognition中文文档] 第4节 Face Recognition API"
+date: "2019-01-11"
 draft: false
 toc: true
 images:

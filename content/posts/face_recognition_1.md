@@ -1,6 +1,6 @@
 ---
-title: "[face_recognition中文文档] 第1节 人脸识别"
-date: 2020-10-11T09:50:26+08:00
+title: "[Face_recognition中文文档] 第1节 人脸识别"
+date: "2019-01-11"
 draft: false
 toc: true
 images:

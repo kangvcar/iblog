@@ -1,6 +1,6 @@
 ---
-title: "[face_recognition中文文档] 第2节 安装"
-date: 2020-10-11T09:50:34+08:00
+title: "[Face_recognition中文文档] 第2节 安装"
+date: "2019-01-11"
 draft: false
 toc: true
 images:
