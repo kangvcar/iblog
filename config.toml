@@ -104,7 +104,7 @@ googleAnalytics = "UA-172441408-3"
     url = "project/"
     weight = 10
 
-  [[menu.main]]
-    name = "Resume"
-    url = "resume.pdf"
-    weight = 30
+#  [[menu.main]]
+#    name = "Resume"
+#    url = "resume.pdf"
+#    weight = 30
