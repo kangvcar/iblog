@@ -218,7 +218,7 @@ title = "about"
 
 创建第一篇文章，放到 post 目录，方便之后生成聚合页面。
 
-`hugo new post/first.md`
+`hugo new posts/first.md`
 
 打开编辑 post/first.md ：
 
