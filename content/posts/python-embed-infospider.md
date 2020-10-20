@@ -1,11 +1,12 @@
 ---
 title: "制作Python-embed版InfoSpider程序"
-date: 2020-10-20T10:10:17+08:00
-draft: true
-toc: false
+date: "2020-10-20"
+draft: false
+toc: true
 images:
 tags: 
-  - untagged
+  - Python-embed
+  - InfoSpider
 ---
 
 ## 1. 下载 embed 版 Python 
