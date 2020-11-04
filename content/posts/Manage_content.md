@@ -220,7 +220,7 @@ title = "about"
 
 `hugo new posts/first.md`
 
-打开编辑 post/first.md ：
+打开编辑 posts/first.md ：
 
 ```markdown
 ---
