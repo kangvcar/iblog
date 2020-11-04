@@ -5,7 +5,7 @@ draft: true
 toc: false
 images:
 tags: 
-  - untagged
+  - Anaconda
 ---
 
 # Anaconda
